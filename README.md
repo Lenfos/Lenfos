@@ -1,3 +1,7 @@
+<div>
+  <img src="https://github.com/Lenfos/Lenfos/blob/main/ParallaxEffect.svg"/>
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on my new portfolio<br>🌱 I’m currently learning Cryptographie<br>👯 I’m looking to collaborate with artist and developer for a video game<br>🤔 I’m looking for help with 3D modeling<br>📫 How to reach me: vanhove.pierre@proton.me
 
