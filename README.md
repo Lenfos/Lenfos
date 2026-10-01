@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github.com/Lenfos/Lenfos/blob/main/ParallaxEffect.svg"/>
+  <img src="https://github.com/Lenfos/Lenfos/blob/main/ParrallaxLayer.svg"/>
 </div>
 
 # 💫 About Me:
